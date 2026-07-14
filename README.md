@@ -24,9 +24,9 @@
 
 # 👋 Hello, I'm Sanjith R S
 
-Computer Science (Cyber Security) undergraduate at **RNS Institute of Technology, Bengaluru**.
+Computer Science (Cyber Security) undergraduate at RNS Institute of Technology, Bengaluru.
 
-I enjoy building practical software that combines **Cybersecurity Enthusiast**, **Front-End Development**, and **Web Security**, while continuously expanding my backend development skills. 
+Passionate about building secure and intelligent software solutions, I enjoy combining cybersecurity, modern web technologies, and artificial intelligence to create practical applications that solve real-world problems. I believe in learning by building and continuously improving through hands-on projects.
 ---
 
 ## 👨‍💻 Operator Profile
