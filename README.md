@@ -1,58 +1,88 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,30:0EA5E9,70:38BDF8,100:0F172A&text=SANJITH%20R%20S&fontColor=ffffff&fontAlignY=38&fontSize=55&desc=Cyber%20Security%20%7C%20Front-End%20Development%20%7C%20Artificial%20Intelligence&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,40:0EA5E9,100:38BDF8&text=SANJITH%20R%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cyber%20Security%20•%20Front-End%20Development%20•%20Artificial%20Intelligence&descAlignY=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1500&color=00FF66&center=true&vCenter=true&width=750&lines=Open+to+Internships+💼;Cyber+Security+Student+🔐;Front-End+Developer+💻"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=Open+to+Internship+Opportunities;Cyber+Security+Student;Front-End+Developer" />
 
 </div>
 
 ---
 
-# 👋 Hello, I'm Sanjith!
+# Hello, I'm Sanjith R S
 
-🎓 **Computer Science (Cyber Security)** student at **RNS Institute of Technology, Bengaluru**
-
-I enjoy building practical software that combines **Cyber Security**, **Artificial Intelligence**, and **Web Development**. I believe the best way to learn is by building real-world projects and continuously improving them.
+I'm a **Computer Science (Cyber Security)** undergraduate at **RNS Institute of Technology, Bengaluru** passionate about building secure software, exploring Artificial Intelligence, and solving real-world problems through technology.
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 Operator Profile
 
-🔐 Passionate about Cyber Security
+📍 **Location:** Bengaluru, India 🇮🇳
 
-💻 Front-End Developer
+🎓 **Education:** B.E. Computer Science (Cyber Security)
 
-🤖 AI Enthusiast
+🏫 **Institute:** RNS Institute of Technology
 
-🌱 Currently learning **FastAPI**, **PostgreSQL**, **Docker**, and **Backend Development**
+🎯 **Focus**
+- Cyber Security
+- Artificial Intelligence
+- Front-End Development
 
-🎯 Looking for internship opportunities where I can learn, contribute, and grow as a software engineer.
+🌱 **Currently Learning**
+- FastAPI
+- PostgreSQL
+- Docker
+- Backend Development
+
+💼 **Status**
+> Open to Internship Opportunities
+
+<p>
+
+<a href="https://www.linkedin.com/in/sanjith-rs/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sanjithreganti@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-🛡️ **AI TaskFlow**  
-FastAPI backend for task management with AI-assisted task prioritization.
+### 🛡️ AI TaskFlow
+FastAPI backend for intelligent task management with AI-assisted prioritization.
 
-🌐 **Deskhop**  
-Secure hybrid workspace booking platform with authentication, RBAC, and BYOD compliance.
+---
 
-🤖 **Sentinel AI**  
-HR Policy Assistant powered by Flask and Google Gemini API.
+### 🌐 Deskhop
+Secure hybrid workspace booking platform with authentication, role-based access control and BYOD compliance.
 
-🔍 **URL Risk Analyzer**  
+---
+
+### 🤖 Sentinel AI
+AI-powered HR Policy Assistant built using Flask and Google Gemini API.
+
+---
+
+### 🔍 URL Risk Analyzer
 Python & Flask application for phishing and malicious URL detection.
 
-⚡ **Adaptive Cyber Defense System**  
-AI-assisted cyber attack simulation and defense recommendation platform.
+---
 
-📡 **Integrated Surveillance Detection System**  
+### ⚡ Adaptive Cyber Defense System
+AI-assisted cyber attack simulation platform for SME security.
+
+---
+
+### 📡 Integrated Surveillance Detection System
 Portable embedded security device for detecting hidden surveillance equipment.
 
 ---
 
-## 🏆 Certifications
+# 🏆 Certifications
 
 🥇 NPTEL Elite – Cryptography & Network Security (IIT Kharagpur)
 
@@ -62,29 +92,33 @@ Portable embedded security device for detecting hidden surveillance equipment.
 
 ---
 
-## 🌱 Currently Exploring
+# 🌱 Currently Exploring
 
 - Artificial Intelligence
-- Backend Development
-- Secure Web Applications
+- Secure Backend Development
 - REST APIs
+- Modern Web Technologies
 - System Design
 
 ---
 
-## 🤝 Let's Connect
+# 📫 Connect With Me
 
-📧 **Email**  
+📧 **Email**
+
 **sanjithreganti@gmail.com**
 
-💼 **LinkedIn**  
-**https://www.linkedin.com/in/sanjith-rs/**
+💼 **LinkedIn**
+
+**www.linkedin.com/in/sanjith-rs**
 
 ---
 
 <div align="center">
 
 ### 🚀 *"Learning today. Building for tomorrow."*
+
+<img src="https://komarev.com/ghpvc/?username=Sanjith0804&label=Profile+Views&color=0e75b6&style=flat"/>
 
 ⭐ Thanks for visiting my profile!
 
