@@ -26,8 +26,7 @@
 
 Computer Science (Cyber Security) undergraduate at **RNS Institute of Technology, Bengaluru**.
 
-I enjoy building practical software that combines **Cyber Security**, **Artificial Intelligence**, and **Web Development**, while continuously expanding my backend development skills.
-
+I enjoy building practical software that combines **Cybersecurity Enthusiast**, **Front-End Development**, and **Web Security**, while continuously expanding my backend development skills. 
 ---
 
 ## 👨‍💻 Operator Profile
@@ -115,7 +114,7 @@ An AI-assisted cybersecurity platform that simulates cyber-attack propagation ac
 </tr>
 
 </table>
-## 🏆 Certifications
+🏆 Certifications
 
 - 🥇 NPTEL Elite – Cryptography & Network Security
 - 🎖 IBM Cybersecurity Analyst
@@ -138,7 +137,13 @@ An AI-assisted cybersecurity platform that simulates cyber-attack propagation ac
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:43CBFF,50:9708CC,100:FDC830"/>
 
-### 🚀 *Learning today. Building for tomorrow.*
+<div align="center">
+
+## 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+
+</div>
 
 ⭐ Thanks for visiting my profile!
 
