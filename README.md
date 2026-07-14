@@ -51,38 +51,70 @@ I enjoy building practical software that combines **Cyber Security**, **Artifici
 
 ## 🚀 Featured Projects
 
-### 🛡️ AI TaskFlow – FastAPI Task Management Backend
+<table>
+<tr>
 
-AI TaskFlow is an intelligent task management backend built using **FastAPI** and Python. It provides CRUD APIs, structured request and response models, and database-backed workflows for efficient task management. The project also explores **AI-assisted task prioritization**, with planned integration of **PostgreSQL**, **Docker**, and secure backend architecture to strengthen real-world backend development skills.
+<td width="50%" valign="top">
 
----
+### 🛡️ AI TaskFlow
 
-### 🌐 Deskhop – Secure Hybrid Workspace Booking System
+AI TaskFlow is a backend task management system built using **FastAPI** and Python. It provides CRUD APIs, structured request/response models, and database-backed workflows for efficient task management. The project also incorporates **AI-assisted task prioritization** and is being enhanced with **PostgreSQL** and **Docker** to create a scalable, production-ready backend application.
 
-Deskhop is a secure workspace booking platform developed using **Flask**, **SQL**, and modern authentication techniques. The system supports workspace reservations with **role-based access control**, device fingerprinting, and **BYOD compliance** to ensure secure access. It demonstrates backend API development, database integration, and secure application design for hybrid work environments.
+**Tech Stack:** FastAPI • Python • PostgreSQL • Docker
 
----
+</td>
 
-### 🤖 Sentinel AI – HR Policy Assistant
-
-Sentinel AI is an AI-powered HR Policy Assistant developed using **Python**, **Flask**, and the **Google Gemini API**. It enables users to upload HR policy documents and receive intelligent, context-aware responses using natural language. The project focuses on improving policy accessibility through document processing, conversational AI, and user-friendly web interfaces.
-
----
-
-### ⚡ Adaptive Cyber Defense System
-
-An AI-assisted cybersecurity platform designed to simulate cyber-attack propagation across enterprise networks. The system evaluates potential attack paths, analyzes network risks, and recommends optimized defense strategies for small and medium-sized organizations. The project combines concepts from **Artificial Intelligence**, **Network Security**, and **Cyber Defense**.
-
----
+<td width="50%" valign="top">
 
 ### 📡 Integrated Surveillance Detection System
 
-A portable **ESP32-based** embedded security solution that detects hidden cameras, Bluetooth trackers, and RF surveillance devices using multiple detection techniques. The system provides real-time mobile alerts, making it useful for privacy protection in hotels, offices, and public environments. It combines embedded systems, cybersecurity, and IoT technologies into a practical security device.
+A portable **ESP32-based** embedded security solution designed to detect hidden cameras, Bluetooth trackers, and RF surveillance devices using multi-sensor detection techniques. The device sends **real-time mobile alerts**, providing an additional layer of privacy and security for users in hotels, offices, and public environments.
 
----
+**Tech Stack:** ESP32 • IoT • Embedded Systems
 
----
+</td>
 
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Deskhop
+
+Deskhop is a secure hybrid workspace booking platform developed using **Flask** and SQL. It features authentication, **role-based access control**, device fingerprinting, and BYOD compliance to provide secure workspace access. The project demonstrates backend API development, database integration, and secure application design.
+
+**Tech Stack:** Flask • SQL • HTML • CSS
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Sentinel AI
+
+Sentinel AI is an AI-powered HR Policy Assistant built using **Python**, **Flask**, and the **Google Gemini API**. It allows users to upload HR policy documents and receive intelligent, context-aware responses using conversational AI. The project focuses on simplifying policy access through document processing and natural language understanding.
+
+**Tech Stack:** Flask • Python • Gemini API
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+### ⚡ Adaptive Cyber Defense System
+
+An AI-assisted cybersecurity platform that simulates cyber-attack propagation across enterprise networks, evaluates potential risks, and recommends optimized defense strategies for small and medium-sized organizations. The project combines Artificial Intelligence, Network Security, and Secure Systems to improve cyber resilience.
+
+**Tech Stack:** Python • Artificial Intelligence • Cyber Security
+
+</td>
+
+</tr>
+
+</table>
 ## 🏆 Certifications
 
 - 🥇 NPTEL Elite – Cryptography & Network Security
