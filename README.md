@@ -1,96 +1,103 @@
 <!-- ===========================
-     GITHUB PROFILE README
+        GITHUB PROFILE
 =========================== -->
 
-<!-- Remove this line for now. We'll add it back after creating the banner. -->
-
+<!-- Add your banner here later -->
 <!--
 <p align="center">
-<img src="assets/banner.png" width="100%">
+  <img src="assets/banner.png" width="100%" alt="GitHub Banner">
 </p>
 -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1500&color=00C853&center=true&vCenter=true&width=700&lines=Open+to+Internships+💼;Cyber+Security+Student+🔐;Front-End+Developer+💻"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1500&color=00C853&center=true&vCenter=true&width=700&lines=Open+to+Internships+💼;Cyber+Security+Student+🔐;Front-End+Developer+💻" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Sanjith R S</h1>
+
+<p align="center">
+Cyber Security Student • Front-End Developer • AI Enthusiast
 </p>
 
 ---
 
-# 👋 Hello, I'm Sanjith R S
+## 🚀 About Me
 
-🎓 **Computer Science (Cyber Security)** Student at **RNS Institute of Technology, Bengaluru**
+🎓 Pursuing **B.E. in Computer Science (Cyber Security)** at **RNS Institute of Technology, Bengaluru**
 
-I'm passionate about building secure software, exploring Artificial Intelligence, and creating technology that solves real-world problems.
+I'm passionate about building secure applications, exploring Artificial Intelligence, and solving real-world problems through technology.
 
-Currently expanding my knowledge in backend development while continuing to strengthen my cybersecurity foundation.
-
----
-
-# 🚀 About Me
-
-- 🔐 Interested in Cyber Security & Secure Software Development
-- 💻 Front-End Developer
-- 🤖 AI Enthusiast
-- 🌱 Currently learning FastAPI, PostgreSQL & Docker
-- 📚 Always exploring new technologies
-- 🎯 Looking for Internship Opportunities
+Currently expanding my skills in backend development while strengthening my cybersecurity foundation.
 
 ---
 
-# 🚀 Featured Projects
+## 💡 Interests
 
-### 🛡️ AI TaskFlow
-FastAPI-based task management backend with AI-assisted task prioritization.
-
-### 🌐 Deskhop
-Secure hybrid workspace booking platform with authentication, role-based access control and BYOD compliance.
-
-### 🤖 Sentinel AI
-AI-powered HR Policy Assistant using Flask and Google Gemini API.
-
-### 🔍 URL Risk Analyzer
-Python + Flask application for phishing and malicious URL detection.
-
-### ⚡ Adaptive Cyber Defense System
-AI-assisted cyber attack simulation platform.
-
-### 📡 Integrated Surveillance Detection System
-Portable embedded security device for detecting hidden surveillance equipment.
+- 🔐 Cyber Security
+- 💻 Front-End Development
+- 🤖 Artificial Intelligence
+- 🌐 Secure Web Applications
+- ⚙️ Backend Development
 
 ---
 
-# 🏆 Certifications
-
-- NPTEL Elite – Cryptography & Network Security
-- IBM Cybersecurity Analyst
-- Meta Front-End Development
-
----
-
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - FastAPI
 - PostgreSQL
 - Docker
 - REST APIs
+- Secure Backend Development
 
 ---
 
-# 📫 Connect With Me
+## 🚀 Featured Projects
 
-**LinkedIn**
+### 🛡️ AI TaskFlow
+FastAPI-based backend for task management with AI-assisted task prioritization.
 
-https://www.linkedin.com/in/sanjith-rs/
+### 🌐 Deskhop
+Secure hybrid workspace booking platform with authentication, role-based access control, and BYOD compliance.
 
-**Email**
+### 🤖 Sentinel AI
+HR Policy Assistant powered by Flask and Google Gemini API.
 
-sanjithreganti@gmail.com
+### 🔍 URL Risk Analyzer
+Python & Flask application for phishing and malicious URL detection.
+
+### ⚡ Adaptive Cyber Defense System
+AI-assisted platform for cyber attack simulation and defense recommendations.
+
+### 📡 Integrated Surveillance Detection System
+Embedded security device for detecting hidden surveillance equipment.
+
+---
+
+## 🏆 Certifications
+
+- 🥇 NPTEL Elite – Cryptography & Network Security (IIT Kharagpur)
+- 🎖 IBM Cybersecurity Analyst
+- 🎖 Meta Front-End Development
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email**
+
+**sanjithreganti@gmail.com**
+
+💼 **LinkedIn**
+
+**www.linkedin.com/in/sanjith-rs**
 
 ---
 
 <div align="center">
 
-### 🚀 "Learning today. Building for tomorrow."
+### 💬 Quote
+
+*"Learning today. Building for tomorrow."*
 
 ⭐ Thanks for visiting my profile!
 
