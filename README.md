@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FDC830,25:F37335,50:9708CC,75:5B86E5,100:36D1DC&text=SANJITH%20R%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cyber%20Security%20%7C%20Front-End%20Development%20%7C%20Artificial%20Intelligence&descAlignY=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&duration=3000&color=00FF66&center=true&vCenter=true&width=720&lines=Open+to+Internship+Opportunities;Target:+Secure+&+Scalable+Solutions;Front-End+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&duration=3000&color=00FF66&center=true&vCenter=true&width=720&lines=Open+to+Internship+Opportunities;Target:+Secure+and+Scalable+Solutions;Front-End+Developer"/>
 
 <br><br>
 
