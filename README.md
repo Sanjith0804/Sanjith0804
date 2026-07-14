@@ -1,61 +1,73 @@
-<h1 align="center">Hi 👋, I'm Sanjith R S</h1>
+<!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Student;Front-End+Developer;AI+Enthusiast;Building+Projects+That+Matter+🚀" />
+  <img src="YOUR_BANNER_LINK_HERE" width="100%" alt="GitHub Banner"/>
 </p>
 
+<!-- ===================== TYPING ANIMATION ==================== -->
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanjith-rs/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:sanjithreganti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1500&color=00C853&center=true&vCenter=true&width=700&lines=Open+to+Internships+💼;Cyber+Security+Student+🔐;Front-End+Developer+💻" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 Hello, I'm Sanjith R S
 
-🎓 Computer Science (Cyber Security) student at **RNS Institute of Technology, Bengaluru**
+🎓 **Computer Science (Cyber Security)** Student at **RNS Institute of Technology, Bengaluru**
 
-🔐 Passionate about **Cyber Security**, **Artificial Intelligence**, and **Web Development**
+I'm passionate about building secure software, exploring Artificial Intelligence, and creating technology that solves real-world problems.
 
-🌱 Currently exploring:
-- FastAPI
-- PostgreSQL
-- Docker
-- Secure Backend Development
-
-🎯 I enjoy building practical applications that combine AI with security to solve real-world problems.
+Currently expanding my knowledge in backend development while continuing to strengthen my cybersecurity foundation.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 About Me
+
+- 🔐 Interested in Cyber Security & Secure Software Development
+- 💻 Front-End Developer
+- 🤖 AI Enthusiast
+- 🌱 Currently learning FastAPI, PostgreSQL & Docker
+- 📚 Always exploring new technologies and building practical projects
+- 🎯 Looking for Software Development & Cyber Security Internship Opportunities
+
+---
+
+# 🚀 Featured Projects
 
 ### 🛡️ AI TaskFlow
 FastAPI-based task management backend with AI-assisted task prioritization.
 
+---
+
 ### 🌐 Deskhop
-Secure hybrid workspace booking platform featuring authentication, role-based access control, and BYOD compliance.
+Secure hybrid workspace booking platform with authentication, role-based access control and BYOD compliance.
+
+---
 
 ### 🤖 Sentinel AI
 AI-powered HR Policy Assistant using Flask and Google Gemini API.
 
+---
+
 ### 🔍 URL Risk Analyzer
-Detects phishing and malicious URLs using Python and Flask.
-
-### ⚡ Adaptive Cyber Defense System
-AI-assisted cyber attack simulation and defense recommendation platform.
-
-### 📡 Integrated Surveillance Detection System
-Portable embedded security device for detecting hidden surveillance equipment.
+Python + Flask application for phishing and malicious URL detection.
 
 ---
 
-## 📜 Certifications
+### ⚡ Adaptive Cyber Defense System
+AI-assisted cyber attack simulation platform for SME security.
 
-🏆 NPTEL Elite – Cryptography and Network Security (IIT Kharagpur)
+---
+
+### 📡 Integrated Surveillance Detection System
+Portable embedded security device for detecting hidden surveillance devices.
+
+---
+
+# 📜 Certifications
+
+🏆 NPTEL Elite – Cryptography & Network Security (IIT Kharagpur)
 
 🏆 IBM Cybersecurity Analyst
 
@@ -63,33 +75,34 @@ Portable embedded security device for detecting hidden surveillance equipment.
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - FastAPI
 - PostgreSQL
 - Docker
 - Backend Development
-- System Design
+- REST APIs
 
 ---
 
-## 🤝 Let's Connect
+# 📫 Connect With Me
 
-📧 **Email:** sanjithreganti@gmail.com
+💼 LinkedIn
 
-💼 **LinkedIn:**  
 https://www.linkedin.com/in/sanjith-rs/
+
+📧 Email
+
+sanjithreganti@gmail.com
 
 ---
 
 <div align="center">
 
-> **"Building today. Learning every day." 🚀**
+### 💬 Quote
+
+*"Learning today. Building for tomorrow."*
+
+⭐ Thanks for visiting my profile!
 
 </div>
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
