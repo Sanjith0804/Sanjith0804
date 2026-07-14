@@ -1,126 +1,95 @@
 <h1 align="center">Hi 👋, I'm Sanjith R S</h1>
 
 <p align="center">
-  <b>Cyber Security Student • Front-End Developer • AI Enthusiast</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Student;Front-End+Developer;AI+Enthusiast;Building+Projects+That+Matter+🚀" />
 </p>
 
 <p align="center">
-Passionate about building secure applications, exploring Artificial Intelligence, and creating technology that solves real-world problems.
+  <a href="https://www.linkedin.com/in/sanjith-rs/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:sanjithreganti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 B.E. Computer Science (Cyber Security) @ RNS Institute of Technology
+🎓 Computer Science (Cyber Security) student at **RNS Institute of Technology, Bengaluru**
 
-🌱 Currently learning
+🔐 Passionate about **Cyber Security**, **Artificial Intelligence**, and **Web Development**
+
+🌱 Currently exploring:
 - FastAPI
 - PostgreSQL
 - Docker
-- Backend Development
+- Secure Backend Development
 
-💡 Interested in
-- Cyber Security
-- Artificial Intelligence
-- Web Development
-- Backend Engineering
-- Secure Application Development
-
-🎯 Goal
-Build impactful AI-powered security solutions and grow as a software engineer.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+🎯 I enjoy building practical applications that combine AI with security to solve real-world problems.
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 AI TaskFlow – FastAPI Task Management Backend
+### 🛡️ AI TaskFlow
+FastAPI-based task management backend with AI-assisted task prioritization.
 
-🔹 Deskhop – Secure Hybrid Workspace Booking System
+### 🌐 Deskhop
+Secure hybrid workspace booking platform featuring authentication, role-based access control, and BYOD compliance.
 
-🔹 Sentinel AI – HR Policy Assistant
+### 🤖 Sentinel AI
+AI-powered HR Policy Assistant using Flask and Google Gemini API.
 
-🔹 URL Risk Analyzer
+### 🔍 URL Risk Analyzer
+Detects phishing and malicious URLs using Python and Flask.
 
-🔹 Adaptive Cyber Defense System
+### ⚡ Adaptive Cyber Defense System
+AI-assisted cyber attack simulation and defense recommendation platform.
 
-🔹 Integrated Surveillance Detection System
-
----
-
-## 🏆 Certifications
-
-🏅 NPTEL Elite – Cryptography and Network Security (IIT Kharagpur)
-
-🏅 IBM Cybersecurity Analyst
-
-🏅 Meta Front-End Development
-
-🏅 Security Governance & Compliance
+### 📡 Integrated Surveillance Detection System
+Portable embedded security device for detecting hidden surveillance equipment.
 
 ---
 
-## 📈 GitHub Stats
+## 📜 Certifications
+
+🏆 NPTEL Elite – Cryptography and Network Security (IIT Kharagpur)
+
+🏆 IBM Cybersecurity Analyst
+
+🏆 Meta Front-End Development
+
+---
+
+## 🌱 Currently Learning
+
+- FastAPI
+- PostgreSQL
+- Docker
+- Backend Development
+- System Design
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** sanjithreganti@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/sanjith-rs/
+
+---
+
+<div align="center">
+
+> **"Building today. Learning every day." 🚀**
+
+</div>
+
+---
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanjith0804&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjith0804&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sanjith0804&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/sanjith-rs/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:sanjithreganti@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
 ⭐ Thanks for visiting my profile!
+</p>
