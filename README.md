@@ -114,8 +114,8 @@ An AI-assisted cybersecurity platform that simulates cyber-attack propagation ac
 🏆 Certifications
 
 - NPTEL Elite – Cryptography & Network Security
-- 🎖 IBM Cybersecurity Analyst
-- 🎖 Meta Front-End Development
+- IBM Cybersecurity Analyst
+- Meta Front-End Development
 
 ---
 
