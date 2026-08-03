@@ -119,10 +119,10 @@ An AI-assisted cybersecurity platform that simulates cyber-attack propagation ac
 
 ---
 
-## 📫 Connect
+## 💼 Connect
 
-- 📧 **Email:** sanjithreganti@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sanjith-rs/
+- **Email:** sanjithreganti@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/sanjith-rs/
 
 ---
 
