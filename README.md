@@ -101,7 +101,7 @@ Sentinel AI is an AI-powered HR Policy Assistant built using **Python**, **Flask
 
 <td colspan="2">
 
-### ⚡ Adaptive Cyber Defense System
+### Adaptive Cyber Defense System
 
 An AI-assisted cybersecurity platform that simulates cyber-attack propagation across enterprise networks, evaluates potential risks, and recommends optimized defense strategies for small and medium-sized organizations. The project combines Artificial Intelligence, Network Security, and Secure Systems to improve cyber resilience.
 
