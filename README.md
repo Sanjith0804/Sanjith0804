@@ -1,4 +1,4 @@
-
+<div align="center">
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FDC830,25:F37335,50:9708CC,75:5B86E5,100:36D1DC&text=SANJITH%20R%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cyber%20Security%20%7C%20Front-End%20Development%20%7C%20Artificial%20Intelligence&descAlignY=60&animation=fadeIn"/>
 
