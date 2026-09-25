@@ -135,3 +135,14 @@ An AI-assisted cybersecurity platform that simulates cyber-attack propagation ac
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:43CBFF,50:9708CC,100:FDC830"/>
 
 <div align="center">
+
+## 💭 Dev Quotes
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+
+</div>
+
+⭐ Thanks for visiting my profile!
+
+</div>
+
